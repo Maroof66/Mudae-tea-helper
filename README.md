@@ -34,8 +34,8 @@ Before using this code, please ensure that you have configured your Discord bot 
    - Run `npm install` in your project directory to install the required dependencies.
 
 6. **Run Your Bot:**
-   - Start your bot using `node your-bot-file.js`.
+   - Start your bot using `node index.js`.
 
-**Note:** Ensure you replace placeholders like `your-bot-token-here` with actual values. Follow these steps to ensure that your bot is set up correctly and can interact with Discord as expected.
+**Note:** Ensure you replace placeholders like `your-bot-token-here` with your bot token. Follow these steps to ensure that your bot is set up correctly and can interact with Discord as expected.
 
 For any additional configuration or troubleshooting, refer to the [Discord.js documentation](https://discord.js.org/#/docs/main/stable/general/welcome) and the [Discord Developer Portal](https://discord.com/developers/docs/intro).
